@@ -15,16 +15,16 @@ export const Form = styled(Unform)`
       border-radius: 5px 5px;
       border: 0;
       color: #fff;
-      background: linear-gradient(180deg, #FD0E47 0%, rgba(233, 63, 10, 0.83) 100%);
+      background: #6554C0;
       font-weight: bold;
       transition: background-color 0.2s;
 
     }
 
     #cancel{
-      color: #FD0E47;
+      color: #6554C0;
       background: #fff;
-      border: 2px solid #FD0E47;
+      border: 2px solid #6554C0;
     }
   }
 `;

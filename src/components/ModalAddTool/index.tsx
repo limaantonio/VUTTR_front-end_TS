@@ -47,7 +47,7 @@ const ModalAddTool: React.FC<IModalProps> = ({
   return (
     <Modal isOpen={isOpen} setIsOpen={setIsOpen}>
       <Form ref={formRef} onSubmit={handleSubmit}>
-        <h1>Add tool + </h1>
+        <h1>Adicionar nova ferramenta</h1>
         <Input name="title" placeholder="Name"/>
 
         <Input  name="link" placeholder="Link"/>

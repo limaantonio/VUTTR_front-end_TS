@@ -6,8 +6,9 @@ export const Container = styled.section`
   #card {
     background: #fff;
     border-radius: 5px;
+    opacity: 1;
 
-    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 15px 20px #00000012;
    
     padding: 24px;
     display: block;
@@ -17,7 +18,7 @@ export const Container = styled.section`
     align-items: center;
     transition: transform 0.2s;
     &:hover {
-     border: 2px solid #FD0E47;
+     border: 2px solid #4C4499;
     }
 
   }
@@ -28,14 +29,14 @@ export const Container = styled.section`
 
     a{
       font-size: 20px;
-      color: #FD0E47;
+      color: #6554C0;
       font-weight: bold;
       text-decoration: none;
       
     }
 
     .btnTrash{
-      color: #FD0E47;
+      color: #4C4499;
       position: absolute;
       right: 20px;
       top: 0;

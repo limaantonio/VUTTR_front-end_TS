@@ -12,7 +12,7 @@ export const Header = styled.header`
   display: flex;
   align-items: center;
   height: 150px;
-  background: linear-gradient(90.4deg, #FD0E47 0.06%, rgba(233, 63, 10, 0.83) 90.97%);
+  background: #6554C0;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   display: block;
   
@@ -69,7 +69,7 @@ export const Form = styled(Unform)`
     border-radius: 5px 5px;
     border: 0;
     color: #fff;
-    background: linear-gradient(180deg, #FD0E47 0%, rgba(233, 63, 10, 0.83) 100%);
+    background: #6554C0;
     font-weight: bold;
     transition: background-color 0.2s;
     
