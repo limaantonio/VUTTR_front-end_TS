@@ -15,7 +15,6 @@
 
 O **Vuttr WEB** é uma aplicação front-end para um 
 aplicativo que é um repositório simples para gerenciamento de ferramentas com seus respectivos nomes, links, descrições e tags.  Esse APP WEB foi desenvolvida para o desafio da **BossaBox**.
-g
 ---
 
 ## 🚀 Tecnologias utilizadas
