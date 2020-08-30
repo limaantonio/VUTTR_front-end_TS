@@ -1,5 +1,6 @@
 <h1 align="center">
   VUTTR WEB
+  <img src="./github/vuttr.gif"/>
 </h1>
 
 # Indice
